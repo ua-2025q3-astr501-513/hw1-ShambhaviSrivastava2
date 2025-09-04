@@ -15,9 +15,11 @@
 # You may test your work by running `pip install -e .`
 
 [project]
-name = "hw1"
-version = ...
+name = "hw1-shambhavisrivastava"
+version = 0.1.2
 dependencies = [
     "pytest",  # must include pytest because we use it for autograding
-    ...
+    "numpy" ,
+    "scipy"
 ]
+license = {file = "LICENSE"}
