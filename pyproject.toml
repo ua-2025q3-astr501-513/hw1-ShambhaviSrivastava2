@@ -13,12 +13,12 @@
 # This turns your homework set into a pip-installable python package.
 #
 # You may test your work by running `pip install -e .`
- # must include pytest because we use it for autograding
+
 [project]
 name = "hw1-shambhavisrivastava"
 version = "0.1.0"
 dependencies = [
-    "pytest", 
+    "pytest",         # must include pytest because we use it for autograding
     "numpy" ,
     "scipy"
 ]
