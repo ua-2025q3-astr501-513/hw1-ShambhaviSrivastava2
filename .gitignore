@@ -1,0 +1,14 @@
+# Ignore Python cache and build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore package metadata
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environment
+.venv/
+*.egg-info/
