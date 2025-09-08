@@ -39,10 +39,21 @@
 # TODO: Edit this sample idea.
 
 - topic: Numerical Linear Algebra
-  idea:  Develop a fast matrix multiplication algorithm to reduce
-         energy consumption during deep learning inference.
+  #idea:  Develop a fast matrix multiplication algorithm to reduce
+  #       energy consumption during deep learning inference.
+  idea:   Use Singular Value Decomposition (SVD) denoising for 
+          astronomical images.
+
 
 # TODO: Add two more project ideas below, following the same format as
 # the example above.
 # Remember to ensure that each idea is distinct and concise, and each
 # "topic" must be one of the listed course topics.
+
+- topic: Root Finding and Optimization Methods
+  idea:   Fit orbital parameters of a binary star minimizing
+          error between modeled and actual lightcurves.
+
+- topic: Fourier transform and Spectral Analysis
+  idea:    Use Fourier transforms to study X-ray 
+           variability during black hole flares.
